@@ -1,6 +1,6 @@
 How it was done
 -----
-Just like anyone other machine learning project, it's divided into 3 parts. That being, data collection, training, and testing. Data collection was by far the hardest part because of the amount of time and research I had to do in order to figure out a way to request and store the data for free.
+Just like any other machine learning project, this one is divided into 3 parts. That being, data collection, training, and testing. Data collection was by far the hardest part because of the amount of time and research I had to do in order to figure out a way to request and store the data for free.
 
 I'm not sure if anyone really cares, but the name for this project is a combination of the words Bazaar and Augur. Bazaar for the Hypixel bazaar, and Augur meaning predicition or something that will happen. Bazaar + Augur = Bazauger? Maybe Bauger or Baugur was a better idea...
 
