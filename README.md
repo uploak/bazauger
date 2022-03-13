@@ -17,6 +17,7 @@ I don't exactly have a website for people to see the predicted prices and whatno
 
 How it was done
 -----
+The project isn't exactly finished yet as it's still in the data collection phase, but here's a little make-shift blog i'll try to update regularly with info reguarding how i'm going about this project. [Blog](https://github.com/uploak/bazauger/new/main)
 
 DISCLAIMER
 -----
