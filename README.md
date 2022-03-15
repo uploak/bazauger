@@ -1,4 +1,5 @@
-
+<!-- 1956x1614 -->
+<p align="center"><img src="https://raw.githubusercontent.com/uploak/bazauger/main/logo.png" style="width:244px;height:201px;" class="centerImage"></img></p>
 <h1 align="center">Bazauger</h1>
 <p align="center">
   <a href="https://github.com/uploak/bazauger/blob/main/LICENSE" target="_blank">
